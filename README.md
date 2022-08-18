@@ -6,8 +6,8 @@ To set up your Cronus Zen and load this scripts, you can refer to [Superlouis's 
 
 
 ## Here are a few things to note before you use this mod:
-  ⋅⋅* I'm using dual blades for this mod, not sure if it works well with other weapons, but feel free to reach me on twitter if you need help :)
-  ⋅⋅* I actually put the Leg Strap on my arm to play, if you wish to use it on your leg instead, you may need to change the ACCX/ ACCY value on line __
+* I'm using dual blades for this mod, not sure if it works well with other weapons, but feel free to reach me on twitter if you need help :)
+* I actually put the Leg Strap on my arm to play, if you wish to use it on your leg instead, you may need to change the ACCX/ ACCY value on line __
 
 
 ## I have remap the buttons as follows:
@@ -35,7 +35,7 @@ To set up your Cronus Zen and load this scripts, you can refer to [Superlouis's 
 
 
 ## Side note 
-  ⋅⋅* You'll need to disconnect your PS4 controller from bluebooth so that you'll be able to connect your Joy-con to PS4
-  ⋅⋅* Once your gpc scripts are loaded into your Cronus Zen, you dont necessarily need to build and run the script via PC everytime
-  ⋅⋅* You can press the reset button at the back of Cronus Zen if the blurtooth pairing button (P2) doesnt work / only one side of Joy-con is connected
+* You'll need to disconnect your PS4 controller from bluebooth so that you'll be able to connect your Joy-con to PS4
+* Once your gpc scripts are loaded into your Cronus Zen, you dont necessarily need to build and run the script via PC everytime
+* You can press the reset button at the back of Cronus Zen if the blurtooth pairing button (P2) doesnt work / only one side of Joy-con is connected
   
