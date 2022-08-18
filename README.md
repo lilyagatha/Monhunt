@@ -2,7 +2,7 @@
 
 Inspired by SuperLouis64 and based on the gpc scripts he created, I have made a mod that you can play Monster Hunter (World/ Iceborne) with joy-con using Cronus Zen. 
 
-To set up your Cronus Zen and load this scripts, you can refer to [Superlouis's Youtube video](https://www.google.com](https://www.youtube.com/watch?v=b0hKHsAgjag&ab_channel=SuperLouis64-ControllerBender) and Cronus Zen's website.
+To set up your Cronus Zen and load this scripts, you can refer to [Superlouis's Youtube video](https://www.youtube.com/watch?v=b0hKHsAgjag&ab_channel=SuperLouis64-ControllerBender) and Cronus Zen's website.
 
 
 ## Here are a few things to note before you use this mod:
