@@ -19,7 +19,7 @@ To set up your Cronus Zen, you can refer to [Superlouis's Youtube video](https:/
 | PS4_CROSS |  You have to bend down |
 
 
-## I have remap the buttons as follows:
+## I have also remap the buttons as follows for easier control in the game:
 | Original | New  |
 |:-------------:| -----:|
 | PS4_UP | PS4_TRIANGLE |
@@ -35,7 +35,7 @@ To set up your Cronus Zen, you can refer to [Superlouis's Youtube video](https:/
 
 
 ## Side note 
-* You'll need to disconnect your PS4 controller from bluebooth so that you'll be able to connect your Joy-con to PS4
+* You'll need to disconnect your PS4 controller from bluebooth (so that you'll be able to connect your Joy-con to PS4)
 * Once your gpc scripts are loaded into your Cronus Zen, you dont necessarily need to build and run the script via PC everytime
 * You can press the reset button at the back of Cronus Zen if the bluetooth pairing button (P2) doesnt work / only one side of Joy-con is connected
 * I'm just a programming student that studied for 4 months.. so my code may not look so good :(
